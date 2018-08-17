@@ -1,7 +1,7 @@
 
 %originarioDe(Genero,Pais).
 originarioDe(tango, argentina).
-originarioDe(chacarera, argentina)
+originarioDe(chacarera, argentina).
 originarioDe(enka, japon).
 originarioDe(deathMetalMelodico, suecia).
 originarioDe(celta, europaOccidental).
