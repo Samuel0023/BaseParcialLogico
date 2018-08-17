@@ -25,8 +25,8 @@ produccion(leonGieco, disco(rock, 12, utnMusic)).
 produccion(darkTranquility, recital(argentina, [deathMetalMelodico, celta])).
 produccion(faun, disco(folk, 45, deustcheMusic)).
 produccion(faun, homenaje(goyeneche)).
-produccion(enka, homenaje(mercedesSosa)).
-produccion(enka, recital(japon, [sayuriIshikawa])).
+produccion(sayuriIshikawa, homenaje(mercedesSosa)).
+produccion(sayuriIshikawa, recital(japon, [enka])).
 produccion(shakira, disco(popLatino, 10, antonitoMusic)).
 produccion(shakira, disco(popLatino, 5, piqueMusic)).
 produccion(mercedesSosa, disco(chacarera, 20, acmeMusic)).
@@ -36,7 +36,7 @@ artista(piazzolla, argentina).
 artista(leonGieco, argentina).
 artista(darkTranquility, suecia).
 artista(faun, alemania).
-artista(enka, japon).
+artista(sayuriIshikawa, japon).
 artista(shakira, colombia).
 artista(mercedesSosa, argentina).
 artista(goyeneche, polonia). %sic
